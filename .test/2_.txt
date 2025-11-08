@@ -6,6 +6,6 @@
 79 Gold Au 196.97
 80 Mercury Hg 200.59
 81 Thallium Tl 204.38
-82 Lead Pb 207.2
+82 Lead Pb 207.20
 83 Bismuth Bi 208.98
 84 Polonium Po 209.00
